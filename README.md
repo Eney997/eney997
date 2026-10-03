@@ -1,16 +1,16 @@
-## Hi there 👋
+### root@system:~#
+Started in low-level C and x86 Assembly, where memory allocation and CPU execution matter most. Now I apply that systems mindset to Android engineering—building Kotlin apps grounded in Multi-Module and Clean Architecture principles, from initial code to production.
 
-<!--
-**Eney997/eney997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+> os              Linux, Windows, macOS
+> languages       Kotlin, ANSI C, Assembly x86
+> data            Relational Databases, Persistence Abstractions, Offline-First Topologies
+> android         Structured Concurrency, Dependency Inversion, Memory & Lifecycle Management
+> architecture    Multi-Module, Clean Architecture, Unidirectional Data Flow, Modularization Strategies
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+section .data
+    user db "eney997", 0
+    mail db "rene9danceswithcodes@gmail.com", 0
+```
